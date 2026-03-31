@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# 👨‍💻 Irfan - Cybersecurity Student
+# 👨‍💻 Irfan - Cybersecurity Rsearcher
 
 ## 📌 About Me
 Hi, I'm Irfan 👋  
